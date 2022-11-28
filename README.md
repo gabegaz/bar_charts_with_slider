@@ -15,8 +15,8 @@ This project uses python 3.9
 First, clone repo
 
 ```bash
-  git clone git@github.com:gabegaz/racing_bar_charts.git
-  cd racing_bar_charts
+  git clone git@github.com:gabegaz/bar_charts_with_slider.git
+  cd bar_charts_with_slider
 ```
 
 ### Create python environment
